@@ -137,3 +137,5 @@ Buka browser dan akses `http://127.0.0.1:5000`.
 
 ---
 -Dwi Cahya Nov
+untuk memenuhi UAS Praktikum BDNR
+
