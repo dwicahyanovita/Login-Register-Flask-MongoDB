@@ -1,6 +1,6 @@
 # ⛄️🔐 Happy Login - Sistem Login & Register dengan Flask dan MongoDB
 
-**Happy Login** adalah aplikasi web sederhana yang memungkinkan pengguna untuk melakukan **registrasi**, **login**, dan melihat **informasi akun** menggunakan **Flask** sebagai backend dan **MongoDB Compass** sebagai database.
+**Happy Login** adalah aplikasi web yang memungkinkan pengguna untuk melakukan **registrasi**, **login**, dan melihat **informasi akun** menggunakan **Flask** sebagai backend dan **MongoDB Compass** sebagai database.
 Aplikasi ini dilengkapi dengan berbagai fitur keamanan, termasuk:
 
 * **Validasi format email** agar sesuai dengan standar email yang benar.
