@@ -1,0 +1,32 @@
+[{
+  "_id": "0b7cd18d40154fb8aa5d0193a8a5f5ad",
+  "username": "dwicnv",
+  "email": "dwicnv@gmail.com",
+  "password": "$pbkdf2-sha256$29000$UwphDAGglLKWUiql9P7/Hw$gH6HGB6BDLBVsNWCvjlb7/B63oDsE/UGbgTWoDOlE/0",
+  "created_at": "2025-06-16T14:19:36.647463",
+  "last_login": "2025-06-16T14:20:12.328363"
+},
+{
+  "_id": "b0072dad15ba4773bab52f5e0fa96193",
+  "username": "bulan",
+  "email": "bulan@gmail.com",
+  "password": "$pbkdf2-sha256$29000$qzXGOCckhJBSau19LwVgzA$PR8wJktKnZbDOSHykL3pTdqq17YXymnlO4ZamIvlPqI",
+  "created_at": "2025-06-16T14:20:46.075326",
+  "last_login": null
+},
+{
+  "_id": "3314712442a443db932bea3134d489e3",
+  "username": "nzzm",
+  "email": "nzzm@gmail.com",
+  "password": "$pbkdf2-sha256$29000$JgQgxLg3xvh/T2lNqbV2zg$zuMkijlaJhayTk1/5ovv5881adXNx3Uha.2Jyp0jeTg",
+  "created_at": "2025-06-16T14:21:18.312636",
+  "last_login": "2025-06-16T14:23:41.958169"
+},
+{
+  "_id": "ec81ba38d71944b5b3dd4d1dccb476c0",
+  "username": "novita",
+  "email": "novita@gmail.com",
+  "password": "$pbkdf2-sha256$29000$x9ib0xrDmNP639ubMyZEiA$XpRqrjhtkA1qF9dlBx9euj8vDQyCZM7t6YRzI38XuU0",
+  "created_at": "2025-06-16T14:22:27.566489",
+  "last_login": null
+}]
