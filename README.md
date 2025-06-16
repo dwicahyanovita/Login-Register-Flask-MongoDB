@@ -96,9 +96,9 @@ Berikut adalah tampilan halaman pada aplikasi ini:
 
 2. **Halaman Login**
 
-     <img width="800" alt="Tangkapan Layar 2025-06-16 pukul 9 18 58 PM" src="https://github.com/user-attachments/assets/2be36e72-03ec-41b7-924f-e5d1eb6c159f" /><img width="1440" alt="Tangkapan Layar 2025-06-16 pukul 10 18 29 PM" src="https://github.com/user-attachments/assets/fa5f21a1-1a68-4853-abcf-234178445e33" />
+  <img width="800" alt="Tangkapan Layar 2025-06-16 pukul 9 20 04 PM" src="https://github.com/user-attachments/assets/09409136-99db-4523-b233-5b6bf81a0f45" />
 
-3. **Respon JSON saat Register / Login**
+3. **Respon JSON saat Register**
    
      <img width="800" alt="Tangkapan Layar 2025-06-16 pukul 9 19 44 PM" src="https://github.com/user-attachments/assets/8a5cf090-b64c-470f-802e-061acafe7e90" />
  
